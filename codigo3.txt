@@ -1,2 +1,4 @@
 print Michael Joseph Jackson
 print Luis Miguel
+print Bruno Mars
+master
